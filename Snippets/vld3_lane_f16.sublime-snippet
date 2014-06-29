@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load a single lane of N-element structure from memory</description>
+    <content><![CDATA[vld3_lane_f16(${1:__transfersize(3) __fp16 const * ptr}, ${2:float16x4x3_t src}, ${3:__constrange(0,3) int lane})]]></content>
+    <tabTrigger>vld3_lane_f16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

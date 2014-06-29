@@ -1,0 +1,6 @@
+<snippet>
+    <description>Absolute difference - long</description>
+    <content><![CDATA[vabdl_u8(${1:uint8x8_t a}, ${2:uint8x8_t b})]]></content>
+    <tabTrigger>vabdl_u8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

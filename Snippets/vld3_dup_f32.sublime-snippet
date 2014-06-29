@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load all lanes of N-element structure with same value from memory</description>
+    <content><![CDATA[vld3_dup_f32(${1:__transfersize(3) float32_t const * ptr})]]></content>
+    <tabTrigger>vld3_dup_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

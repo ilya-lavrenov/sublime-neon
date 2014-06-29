@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply by scalar</description>
+    <content><![CDATA[vmulq_n_f32(${1:float32x4_t a}, ${2:float32_t b})]]></content>
+    <tabTrigger>vmulq_n_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

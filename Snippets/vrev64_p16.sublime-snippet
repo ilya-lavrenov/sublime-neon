@@ -1,0 +1,6 @@
+<snippet>
+    <description>Reverse vector elements (swap endianness)</description>
+    <content><![CDATA[vrev64_p16(${1:poly16x4_t vec})]]></content>
+    <tabTrigger>vrev64_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

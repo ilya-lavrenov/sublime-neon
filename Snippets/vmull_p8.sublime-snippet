@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector long multiply</description>
+    <content><![CDATA[vmull_p8(${1:poly8x8_t a}, ${2:poly8x8_t b})]]></content>
+    <tabTrigger>vmull_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

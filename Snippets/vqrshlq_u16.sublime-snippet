@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating rounding shift left: (negative values shift right)</description>
+    <content><![CDATA[vqrshlq_u16(${1:uint16x8_t a}, ${2:int16x8_t b})]]></content>
+    <tabTrigger>vqrshlq_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

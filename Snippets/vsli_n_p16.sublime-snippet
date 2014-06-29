@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector shift left and insert</description>
+    <content><![CDATA[vsli_n_p16(${1:poly16x4_t a}, ${2:poly16x4_t b}, ${3:__constrange(0,15) int c})]]></content>
+    <tabTrigger>vsli_n_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

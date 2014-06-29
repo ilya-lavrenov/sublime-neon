@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector subtract high half</description>
+    <content><![CDATA[vsubhn_u64(${1:uint64x2_t a}, ${2:uint64x2_t b})]]></content>
+    <tabTrigger>vsubhn_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Interleave elements</description>
+    <content><![CDATA[vzip_s8(${1:int8x8_t a}, ${2:int8x8_t b})]]></content>
+    <tabTrigger>vzip_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

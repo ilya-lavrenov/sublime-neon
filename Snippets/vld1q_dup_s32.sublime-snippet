@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load all lanes of vector with same value from memory</description>
+    <content><![CDATA[vld1q_dup_s32(${1:__transfersize(1) int32_t const * ptr})]]></content>
+    <tabTrigger>vld1q_dup_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

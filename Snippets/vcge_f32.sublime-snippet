@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector compare greater-than or equal</description>
+    <content><![CDATA[vcge_f32(${1:float32x2_t a}, ${2:float32x2_t b})]]></content>
+    <tabTrigger>vcge_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply accumulate: vmla{q}_type. Vr[i] := Va[i] + Vb[i] * Vc[i]</description>
+    <content><![CDATA[vmlaq_u16(${1:uint16x8_t a}, ${2:uint16x8_t b}, ${3:uint16x8_t c})]]></content>
+    <tabTrigger>vmlaq_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

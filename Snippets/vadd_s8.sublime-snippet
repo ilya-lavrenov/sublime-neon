@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector add: vadd{q}_type. Vr[i]:=Va[i]+Vb[i]</description>
+    <content><![CDATA[vadd_s8(${1:int8x8_t a}, ${2:int8x8_t b})]]></content>
+    <tabTrigger>vadd_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

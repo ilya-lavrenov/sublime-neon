@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector compare less-than or equal</description>
+    <content><![CDATA[vcle_u32(${1:uint32x2_t a}, ${2:uint32x2_t b})]]></content>
+    <tabTrigger>vcle_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

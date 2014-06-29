@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply accumulate with scalar</description>
+    <content><![CDATA[vmla_n_u16(${1:uint16x4_t a}, ${2:uint16x4_t b}, ${3:uint16_t c})]]></content>
+    <tabTrigger>vmla_n_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

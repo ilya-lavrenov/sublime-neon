@@ -1,0 +1,6 @@
+<snippet>
+    <description>Count leading sign bits</description>
+    <content><![CDATA[vclsq_s8(${1:int8x16_t a})]]></content>
+    <tabTrigger>vclsq_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

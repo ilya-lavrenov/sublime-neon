@@ -1,0 +1,6 @@
+<snippet>
+    <description>Combining vectors</description>
+    <content><![CDATA[vcombine_s32(${1:int32x2_t low}, ${2:int32x2_t high})]]></content>
+    <tabTrigger>vcombine_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

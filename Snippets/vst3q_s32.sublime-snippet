@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store N-element structure to memory</description>
+    <content><![CDATA[vst3q_s32(${1:__transfersize(12) int32_t * ptr}, ${2:int32x4x3_t val})]]></content>
+    <tabTrigger>vst3q_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

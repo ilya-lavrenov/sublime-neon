@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load N-element structure from memory</description>
+    <content><![CDATA[vld4_u64(${1:__transfersize(4) uint64_t const * ptr})]]></content>
+    <tabTrigger>vld4_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

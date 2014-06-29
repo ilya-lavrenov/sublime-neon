@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise OR complement</description>
+    <content><![CDATA[vorn_u32(${1:uint32x2_t a}, ${2:uint32x2_t b})]]></content>
+    <tabTrigger>vorn_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

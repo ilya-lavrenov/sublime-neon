@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector rounding saturating doubling multiply high by scalar</description>
+    <content><![CDATA[vqrdmulh_lane_s16(${1:int16x4_t vec1}, ${2:int16x4_t val2}, ${3:__constrange(0, 3) int val3})]]></content>
+    <tabTrigger>vqrdmulh_lane_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

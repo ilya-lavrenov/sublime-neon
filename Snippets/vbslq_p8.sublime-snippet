@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise Select</description>
+    <content><![CDATA[vbslq_p8(${1:uint8x16_t a}, ${2:poly8x16_t b}, ${3:poly8x16_t c})]]></content>
+    <tabTrigger>vbslq_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

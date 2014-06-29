@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector long add: vaddl_type. Vr[i]:=Va[i]+Vb[i]</description>
+    <content><![CDATA[vaddl_u8(${1:uint8x8_t a}, ${2:uint8x8_t b})]]></content>
+    <tabTrigger>vaddl_u8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store a single vector into memory</description>
+    <content><![CDATA[vst1q_u64(${1:__transfersize(2) uint64_t * ptr}, ${2:uint64x2_t val})]]></content>
+    <tabTrigger>vst1q_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

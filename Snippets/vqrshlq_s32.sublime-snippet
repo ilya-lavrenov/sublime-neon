@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating rounding shift left: (negative values shift right)</description>
+    <content><![CDATA[vqrshlq_s32(${1:int32x4_t a}, ${2:int32x4_t b})]]></content>
+    <tabTrigger>vqrshlq_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector extract</description>
+    <content><![CDATA[vext_p8(${1:poly8x8_t a}, ${2:poly8x8_t b}, ${3:__constrange(0,7) int c})]]></content>
+    <tabTrigger>vext_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector long subtract: vsubl_type. Vr[i]:=Va[i]+Vb[i]</description>
+    <content><![CDATA[vsubl_s32(${1:int32x2_t a}, ${2:int32x2_t b})]]></content>
+    <tabTrigger>vsubl_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

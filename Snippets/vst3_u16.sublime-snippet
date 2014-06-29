@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store N-element structure to memory</description>
+    <content><![CDATA[vst3_u16(${1:__transfersize(12) uint16_t * ptr}, ${2:uint16x4x3_t val})]]></content>
+    <tabTrigger>vst3_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

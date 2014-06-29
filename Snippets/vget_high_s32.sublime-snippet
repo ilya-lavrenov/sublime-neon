@@ -1,0 +1,6 @@
+<snippet>
+    <description>Splitting vectors</description>
+    <content><![CDATA[vget_high_s32(${1:int32x4_t a})]]></content>
+    <tabTrigger>vget_high_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

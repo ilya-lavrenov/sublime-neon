@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load all lanes of the vector to the value of a lane of a vector</description>
+    <content><![CDATA[vdupq_lane_f32(${1:float32x2_t vec}, ${2:__constrange(0,1) int lane})]]></content>
+    <tabTrigger>vdupq_lane_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

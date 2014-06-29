@@ -1,0 +1,6 @@
+<snippet>
+    <description>Convert from float</description>
+    <content><![CDATA[vcvtq_u32_f32(${1:float32x4_t a})]]></content>
+    <tabTrigger>vcvtq_u32_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

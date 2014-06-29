@@ -1,0 +1,6 @@
+<snippet>
+    <description>Transpose elements</description>
+    <content><![CDATA[vtrn_p8(${1:poly8x8_t a}, ${2:poly8x8_t b})]]></content>
+    <tabTrigger>vtrn_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

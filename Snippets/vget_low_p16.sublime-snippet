@@ -1,0 +1,6 @@
+<snippet>
+    <description>Splitting vectors</description>
+    <content><![CDATA[vget_low_p16(${1:poly16x8_t a})]]></content>
+    <tabTrigger>vget_low_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

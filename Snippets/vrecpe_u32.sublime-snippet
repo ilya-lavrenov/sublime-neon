@@ -1,0 +1,6 @@
+<snippet>
+    <description>Reciprocal estimate</description>
+    <content><![CDATA[vrecpe_u32(${1:uint32x2_t a})]]></content>
+    <tabTrigger>vrecpe_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

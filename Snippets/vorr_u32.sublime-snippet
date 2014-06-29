@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise or</description>
+    <content><![CDATA[vorr_u32(${1:uint32x2_t a}, ${2:uint32x2_t b})]]></content>
+    <tabTrigger>vorr_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

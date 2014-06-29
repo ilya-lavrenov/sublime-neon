@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating subtract</description>
+    <content><![CDATA[vqsub_u64(${1:uint64x1_t a}, ${2:uint64x1_t b})]]></content>
+    <tabTrigger>vqsub_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

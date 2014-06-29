@@ -1,0 +1,6 @@
+<snippet>
+    <description>Absolute: vabs{q}_type. Vd[i] = |Va[i]|</description>
+    <content><![CDATA[vabs_s32(${1:int32x2_t a})]]></content>
+    <tabTrigger>vabs_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

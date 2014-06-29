@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store N-element structure to memory</description>
+    <content><![CDATA[vst3q_f16(${1:__transfersize(24) __fp16 * ptr}, ${2:float16x8x3_t val})]]></content>
+    <tabTrigger>vst3q_f16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

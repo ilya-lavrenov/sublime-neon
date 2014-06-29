@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise exclusive or (EOR or XOR)</description>
+    <content><![CDATA[veorq_u64(${1:uint64x2_t a}, ${2:uint64x2_t b})]]></content>
+    <tabTrigger>veorq_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

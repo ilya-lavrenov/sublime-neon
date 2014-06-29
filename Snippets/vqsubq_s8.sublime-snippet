@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating subtract</description>
+    <content><![CDATA[vqsubq_s8(${1:int8x16_t a}, ${2:int8x16_t b})]]></content>
+    <tabTrigger>vqsubq_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply: vmul{q}_type. Vr[i] := Va[i] * Vb[i]</description>
+    <content><![CDATA[vmulq_p8(${1:poly8x16_t a}, ${2:poly8x16_t b})]]></content>
+    <tabTrigger>vmulq_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

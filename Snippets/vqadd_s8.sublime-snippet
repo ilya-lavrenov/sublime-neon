@@ -1,0 +1,6 @@
+<snippet>
+    <description>VQADD: Vector saturating add</description>
+    <content><![CDATA[vqadd_s8(${1:int8x8_t a}, ${2:int8x8_t b})]]></content>
+    <tabTrigger>vqadd_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

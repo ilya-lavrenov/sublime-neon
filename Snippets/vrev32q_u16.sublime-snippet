@@ -1,0 +1,6 @@
+<snippet>
+    <description>Reverse vector elements (swap endianness)</description>
+    <content><![CDATA[vrev32q_u16(${1:uint16x8_t vec})]]></content>
+    <tabTrigger>vrev32q_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

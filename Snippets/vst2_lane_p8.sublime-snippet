@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store a single lane of N-element structure to memory</description>
+    <content><![CDATA[vst2_lane_p8(${1:__transfersize(2) poly8_t * ptr}, ${2:poly8x8x2_t val}, ${3:__constrange(0,7) int lane})]]></content>
+    <tabTrigger>vst2_lane_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector rounding subtract high half</description>
+    <content><![CDATA[vceqq_u32(${1:uint32x4_t a}, ${2:uint32x4_t b})]]></content>
+    <tabTrigger>vceqq_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

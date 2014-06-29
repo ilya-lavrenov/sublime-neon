@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector widening multiply accumulate with scalar</description>
+    <content><![CDATA[vmlal_lane_u16(${1:uint32x4_t a}, ${2:uint16x4_t b}, ${3:uint16x4_t v}, ${4:__constrange(0,3) int l})]]></content>
+    <tabTrigger>vmlal_lane_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

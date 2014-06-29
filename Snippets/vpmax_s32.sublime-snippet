@@ -1,0 +1,6 @@
+<snippet>
+    <description>vpmax - takes maximum of adjacent pairs</description>
+    <content><![CDATA[vpmax_s32(${1:int32x2_t a}, ${2:int32x2_t b})]]></content>
+    <tabTrigger>vpmax_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Transpose elements</description>
+    <content><![CDATA[vtrnq_f32(${1:float32x4_t a}, ${2:float32x4_t b})]]></content>
+    <tabTrigger>vtrnq_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

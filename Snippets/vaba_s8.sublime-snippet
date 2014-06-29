@@ -1,0 +1,6 @@
+<snippet>
+    <description>Absolute difference and accumulate: vaba{q}_type. Vr[i] = Va[i] + | Vb[i] - Vc[i] |</description>
+    <content><![CDATA[vaba_s8(${1:int8x8_t a}, ${2:int8x8_t b}, ${3:int8x8_t c})]]></content>
+    <tabTrigger>vaba_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

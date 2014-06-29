@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load a single lane of N-element structure from memory</description>
+    <content><![CDATA[vld3_lane_p8(${1:__transfersize(3) poly8_t const * ptr}, ${2:poly8x8x3_t src}, ${3:__constrange(0,7) int lane})]]></content>
+    <tabTrigger>vld3_lane_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

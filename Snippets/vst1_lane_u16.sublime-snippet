@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store a lane of a vector into memory</description>
+    <content><![CDATA[vst1_lane_u16(${1:__transfersize(1) uint16_t * ptr}, ${2:uint16x4_t val}, ${3:__constrange(0,3) int lane})]]></content>
+    <tabTrigger>vst1_lane_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

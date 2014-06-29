@@ -1,0 +1,6 @@
+<snippet>
+    <description>Negate: vneg{q}_type. Vd[i] = - Va[i]</description>
+    <content><![CDATA[vneg_s8(${1:int8x8_t a})]]></content>
+    <tabTrigger>vneg_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

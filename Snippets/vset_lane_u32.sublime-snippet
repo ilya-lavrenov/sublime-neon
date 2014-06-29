@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load a single lane of a vector from a literal</description>
+    <content><![CDATA[vset_lane_u32(${1:uint32_t value}, ${2:uint32x2_t vec}, ${3:__constrange(0,1) int lane})]]></content>
+    <tabTrigger>vset_lane_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

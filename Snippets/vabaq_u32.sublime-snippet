@@ -1,0 +1,6 @@
+<snippet>
+    <description>Absolute difference and accumulate: vaba{q}_type. Vr[i] = Va[i] + | Vb[i] - Vc[i] |</description>
+    <content><![CDATA[vabaq_u32(${1:uint32x4_t a}, ${2:uint32x4_t b}, ${3:uint32x4_t c})]]></content>
+    <tabTrigger>vabaq_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

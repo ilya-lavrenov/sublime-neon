@@ -1,0 +1,6 @@
+<snippet>
+    <description>Transpose elements</description>
+    <content><![CDATA[vtrn_u16(${1:uint16x4_t a}, ${2:uint16x4_t b})]]></content>
+    <tabTrigger>vtrn_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

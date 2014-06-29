@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating shift left by constant</description>
+    <content><![CDATA[vqshlq_n_s8(${1:int8x16_t a}, ${2:__constrange(0,7) int b})]]></content>
+    <tabTrigger>vqshlq_n_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

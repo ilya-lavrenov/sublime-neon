@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector test bits</description>
+    <content><![CDATA[vtstq_p8(${1:poly8x16_t a}, ${2:poly8x16_t b})]]></content>
+    <tabTrigger>vtstq_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

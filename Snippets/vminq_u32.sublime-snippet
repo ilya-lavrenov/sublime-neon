@@ -1,0 +1,6 @@
+<snippet>
+    <description>vmin{q}_type. Vr[i] := (Va[i] = Vb[i]) ? Vb[i] : Va[i]</description>
+    <content><![CDATA[vminq_u32(${1:uint32x4_t a}, ${2:uint32x4_t b})]]></content>
+    <tabTrigger>vminq_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

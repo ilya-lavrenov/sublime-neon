@@ -1,0 +1,6 @@
+<snippet>
+    <description>Interleave elements</description>
+    <content><![CDATA[vzipq_u32(${1:uint32x4_t a}, ${2:uint32x4_t b})]]></content>
+    <tabTrigger>vzipq_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply accumulate with scalar</description>
+    <content><![CDATA[vmlaq_n_u32(${1:uint32x4_t a}, ${2:uint32x4_t b}, ${3:uint32_t c})]]></content>
+    <tabTrigger>vmlaq_n_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Long pairwise add and accumulate</description>
+    <content><![CDATA[vpadal_u32(${1:uint64x1_t a}, ${2:uint32x2_t b})]]></content>
+    <tabTrigger>vpadal_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

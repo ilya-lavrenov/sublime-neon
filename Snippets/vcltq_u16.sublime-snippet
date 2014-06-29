@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector compare less-than</description>
+    <content><![CDATA[vcltq_u16(${1:uint16x8_t a}, ${2:uint16x8_t b})]]></content>
+    <tabTrigger>vcltq_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

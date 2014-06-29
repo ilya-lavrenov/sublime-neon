@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector narrow integer</description>
+    <content><![CDATA[vmovn_s64(${1:int64x2_t a})]]></content>
+    <tabTrigger>vmovn_s64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

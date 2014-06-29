@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise or</description>
+    <content><![CDATA[vorrq_s16(${1:int16x8_t a}, ${2:int16x8_t b})]]></content>
+    <tabTrigger>vorrq_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Saturating absolute: vqabs{q}_type. Vd[i] = sat(|Va[i]|)</description>
+    <content><![CDATA[vqabs_s8(${1:int8x8_t a})]]></content>
+    <tabTrigger>vqabs_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

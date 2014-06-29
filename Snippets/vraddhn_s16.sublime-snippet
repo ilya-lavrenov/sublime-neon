@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector rounding add high half: vraddhn_type.</description>
+    <content><![CDATA[vraddhn_s16(${1:int16x8_t a}, ${2:int16x8_t b})]]></content>
+    <tabTrigger>vraddhn_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Absolute difference between the arguments: vabd{q}_type. Vr[i] = | Va[i] - Vb[i] |</description>
+    <content><![CDATA[vabdq_s8(${1:int8x16_t a}, ${2:int8x16_t b})]]></content>
+    <tabTrigger>vabdq_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

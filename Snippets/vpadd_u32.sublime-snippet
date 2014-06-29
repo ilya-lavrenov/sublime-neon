@@ -1,0 +1,6 @@
+<snippet>
+    <description>Pairwise add</description>
+    <content><![CDATA[vpadd_u32(${1:uint32x2_t a}, ${2:uint32x2_t b})]]></content>
+    <tabTrigger>vpadd_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

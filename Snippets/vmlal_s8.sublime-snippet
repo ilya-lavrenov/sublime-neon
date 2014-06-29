@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply accumulate long: vmlal_type. Vr[i] := Va[i] + Vb[i] * Vc[i]</description>
+    <content><![CDATA[vmlal_s8(${1:int16x8_t a}, ${2:int8x8_t b}, ${3:int8x8_t c})]]></content>
+    <tabTrigger>vmlal_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

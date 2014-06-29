@@ -1,0 +1,6 @@
+<snippet>
+    <description>Extract lanes from a vector and put into a register</description>
+    <content><![CDATA[vgetq_lane_u32(${1:uint32x4_t vec}, ${2:__constrange(0,3) int lane})]]></content>
+    <tabTrigger>vgetq_lane_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

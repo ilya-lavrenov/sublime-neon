@@ -1,0 +1,6 @@
+<snippet>
+    <description>Absolute difference - long</description>
+    <content><![CDATA[vabdl_s16(${1:int16x4_t a}, ${2:int16x4_t b})]]></content>
+    <tabTrigger>vabdl_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

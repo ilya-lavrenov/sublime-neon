@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load a single lane from memory</description>
+    <content><![CDATA[vld1_lane_p8(${1:__transfersize(1) poly8_t const * ptr}, ${2:poly8x8_t vec}, ${3:__constrange(0,7) int lane})]]></content>
+    <tabTrigger>vld1_lane_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

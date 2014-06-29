@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector long move</description>
+    <content><![CDATA[vmovl_s8(${1:int8x8_t a})]]></content>
+    <tabTrigger>vmovl_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

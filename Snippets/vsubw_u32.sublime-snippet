@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector wide subtract: vsubw_type. Vr[i]:=Va[i]+Vb[i]</description>
+    <content><![CDATA[vsubw_u32(${1:uint64x2_t a}, ${2:uint32x2_t b})]]></content>
+    <tabTrigger>vsubw_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

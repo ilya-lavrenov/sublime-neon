@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise Select</description>
+    <content><![CDATA[vbsl_s16(${1:uint16x4_t a}, ${2:int16x4_t b}, ${3:int16x4_t c})]]></content>
+    <tabTrigger>vbsl_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

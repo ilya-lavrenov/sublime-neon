@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise Select</description>
+    <content><![CDATA[vbslq_u64(${1:uint64x2_t a}, ${2:uint64x2_t b}, ${3:uint64x2_t c})]]></content>
+    <tabTrigger>vbslq_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector shift left by constant</description>
+    <content><![CDATA[vshlq_n_u64(${1:uint64x2_t a}, ${2:__constrange(0,63) int b})]]></content>
+    <tabTrigger>vshlq_n_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>vmax{q}_type. Vr[i] := (Va[i] = Vb[i]) ? Va[i] : Vb[i]</description>
+    <content><![CDATA[vmax_f32(${1:float32x2_t a}, ${2:float32x2_t b})]]></content>
+    <tabTrigger>vmax_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load all lanes of vector to the same literal value</description>
+    <content><![CDATA[vmovq_n_u16(${1:uint16_t value})]]></content>
+    <tabTrigger>vmovq_n_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

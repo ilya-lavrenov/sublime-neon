@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector narrowing shift right by constant</description>
+    <content><![CDATA[vshrn_n_s16(${1:int16x8_t a}, ${2:__constrange(1,8) int b})]]></content>
+    <tabTrigger>vshrn_n_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

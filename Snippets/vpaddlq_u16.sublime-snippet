@@ -1,0 +1,6 @@
+<snippet>
+    <description>Long pairwise add</description>
+    <content><![CDATA[vpaddlq_u16(${1:uint16x8_t a})]]></content>
+    <tabTrigger>vpaddlq_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

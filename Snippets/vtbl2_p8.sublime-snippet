@@ -1,0 +1,6 @@
+<snippet>
+    <description>Table look up</description>
+    <content><![CDATA[vtbl2_p8(${1:poly8x8x2_t a}, ${2:uint8x8_t b})]]></content>
+    <tabTrigger>vtbl2_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

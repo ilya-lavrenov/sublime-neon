@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector rounding halving add: vrhadd{q}_type. Vr[i]:=(Va[i]+Vb[i]+1)1</description>
+    <content><![CDATA[vrhaddq_u32(${1:uint32x4_t a}, ${2:uint32x4_t b})]]></content>
+    <tabTrigger>vrhaddq_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

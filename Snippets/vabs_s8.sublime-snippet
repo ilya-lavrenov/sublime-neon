@@ -1,0 +1,6 @@
+<snippet>
+    <description>Absolute: vabs{q}_type. Vd[i] = |Va[i]|</description>
+    <content><![CDATA[vabs_s8(${1:int8x8_t a})]]></content>
+    <tabTrigger>vabs_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Extended table look up intrinsics</description>
+    <content><![CDATA[vtbx4_p8(${1:poly8x8_t a}, ${2:poly8x8x4_t b}, ${3:uint8x8_t c})]]></content>
+    <tabTrigger>vtbx4_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

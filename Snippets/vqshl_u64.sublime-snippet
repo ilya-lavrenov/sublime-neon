@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating shift left: (negative values shift right)</description>
+    <content><![CDATA[vqshl_u64(${1:uint64x1_t a}, ${2:int64x1_t b})]]></content>
+    <tabTrigger>vqshl_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

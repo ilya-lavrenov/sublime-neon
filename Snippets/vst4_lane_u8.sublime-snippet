@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store a single lane of N-element structure to memory</description>
+    <content><![CDATA[vst4_lane_u8(${1:__transfersize(4) uint8_t * ptr}, ${2:uint8x8x4_t val}, ${3:__constrange(0,7) int lane})]]></content>
+    <tabTrigger>vst4_lane_u8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

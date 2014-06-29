@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector long move</description>
+    <content><![CDATA[vmovl_u16(${1:uint16x4_t a})]]></content>
+    <tabTrigger>vmovl_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

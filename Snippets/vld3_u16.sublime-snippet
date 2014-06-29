@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load N-element structure from memory</description>
+    <content><![CDATA[vld3_u16(${1:__transfersize(12) uint16_t const * ptr})]]></content>
+    <tabTrigger>vld3_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating shift left: (negative values shift right)</description>
+    <content><![CDATA[vqshlq_s16(${1:int16x8_t a}, ${2:int16x8_t b})]]></content>
+    <tabTrigger>vqshlq_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

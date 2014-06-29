@@ -1,0 +1,6 @@
+<snippet>
+    <description>Count number of set bits</description>
+    <content><![CDATA[vcnt_p8(${1:poly8x8_t a})]]></content>
+    <tabTrigger>vcnt_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

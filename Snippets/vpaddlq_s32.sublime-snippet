@@ -1,0 +1,6 @@
+<snippet>
+    <description>Long pairwise add</description>
+    <content><![CDATA[vpaddlq_s32(${1:int32x4_t a})]]></content>
+    <tabTrigger>vpaddlq_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

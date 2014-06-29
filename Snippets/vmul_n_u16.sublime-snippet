@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply by scalar</description>
+    <content><![CDATA[vmul_n_u16(${1:uint16x4_t a}, ${2:uint16_t b})]]></content>
+    <tabTrigger>vmul_n_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

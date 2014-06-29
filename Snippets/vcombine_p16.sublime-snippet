@@ -1,0 +1,6 @@
+<snippet>
+    <description>Combining vectors</description>
+    <content><![CDATA[vcombine_p16(${1:poly16x4_t low}, ${2:poly16x4_t high})]]></content>
+    <tabTrigger>vcombine_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

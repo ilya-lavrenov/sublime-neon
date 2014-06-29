@@ -1,0 +1,6 @@
+<snippet>
+    <description>Reciprocal/Sqrt</description>
+    <content><![CDATA[vrsqrtsq_f32(${1:float32x4_t a}, ${2:float32x4_t b})]]></content>
+    <tabTrigger>vrsqrtsq_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

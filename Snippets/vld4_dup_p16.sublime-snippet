@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load all lanes of N-element structure with same value from memory</description>
+    <content><![CDATA[vld4_dup_p16(${1:__transfersize(4) poly16_t const * ptr})]]></content>
+    <tabTrigger>vld4_dup_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

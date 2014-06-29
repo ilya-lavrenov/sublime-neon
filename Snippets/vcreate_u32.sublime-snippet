@@ -1,0 +1,6 @@
+<snippet>
+    <description>Initialize a vector from a literal bit pattern</description>
+    <content><![CDATA[vcreate_u32(${1:uint64_t a})]]></content>
+    <tabTrigger>vcreate_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

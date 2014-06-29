@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector halving add: vhadd{q}_type. Vr[i]:=(Va[i]+Vb[i])1</description>
+    <content><![CDATA[vhadd_s8(${1:int8x8_t a}, ${2:int8x8_t b})]]></content>
+    <tabTrigger>vhadd_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

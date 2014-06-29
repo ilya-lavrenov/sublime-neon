@@ -1,0 +1,6 @@
+<snippet>
+    <description>Saturating Negate: vqneg{q}_type. sat(Vd[i] = - Va[i])</description>
+    <content><![CDATA[vqnegq_s32(${1:int32x4_t a})]]></content>
+    <tabTrigger>vqnegq_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load a single lane of a vector from a literal</description>
+    <content><![CDATA[vsetq_lane_p16(${1:poly16_t value}, ${2:poly16x8_t vec}, ${3:__constrange(0,7) int lane})]]></content>
+    <tabTrigger>vsetq_lane_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

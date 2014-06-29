@@ -1,0 +1,6 @@
+<snippet>
+    <description>Combining vectors</description>
+    <content><![CDATA[vcombine_u32(${1:uint32x2_t low}, ${2:uint32x2_t high})]]></content>
+    <tabTrigger>vcombine_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

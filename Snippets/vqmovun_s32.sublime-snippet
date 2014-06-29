@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector saturating narrow integer signed-unsigned</description>
+    <content><![CDATA[vqmovun_s32(${1:int32x4_t a})]]></content>
+    <tabTrigger>vqmovun_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

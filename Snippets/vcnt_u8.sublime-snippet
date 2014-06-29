@@ -1,0 +1,6 @@
+<snippet>
+    <description>Count number of set bits</description>
+    <content><![CDATA[vcnt_u8(${1:uint8x8_t a})]]></content>
+    <tabTrigger>vcnt_u8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

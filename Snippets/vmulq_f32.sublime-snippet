@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply: vmul{q}_type. Vr[i] := Va[i] * Vb[i]</description>
+    <content><![CDATA[vmulq_f32(${1:float32x4_t a}, ${2:float32x4_t b})]]></content>
+    <tabTrigger>vmulq_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply subtract with scalar</description>
+    <content><![CDATA[vmlsq_lane_s32(${1:int32x4_t a}, ${2:int32x4_t b}, ${3:int32x2_t v}, ${4:__constrange(0,1) int l})]]></content>
+    <tabTrigger>vmlsq_lane_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

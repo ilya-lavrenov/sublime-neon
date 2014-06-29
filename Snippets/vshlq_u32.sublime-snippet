@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector shift left: vshl{q}_type. Vr[i] := Va[i]  Vb[i] (negative values shift right)</description>
+    <content><![CDATA[vshlq_u32(${1:uint32x4_t a}, ${2:int32x4_t b})]]></content>
+    <tabTrigger>vshlq_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load N-element structure from memory</description>
+    <content><![CDATA[vld3_s8(${1:__transfersize(24) int8_t const * ptr})]]></content>
+    <tabTrigger>vld3_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

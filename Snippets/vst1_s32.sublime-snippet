@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store a single vector into memory</description>
+    <content><![CDATA[vst1_s32(${1:__transfersize(2) int32_t * ptr}, ${2:int32x2_t val})]]></content>
+    <tabTrigger>vst1_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

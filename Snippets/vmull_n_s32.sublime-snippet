@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector long multiply with scalar</description>
+    <content><![CDATA[vmull_n_s32(${1:int32x2_t vec1}, ${2:int32_t val2})]]></content>
+    <tabTrigger>vmull_n_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>vpmin - takes minimum of adjacent pairs</description>
+    <content><![CDATA[vpmin_u8(${1:uint8x8_t a}, ${2:uint8x8_t b})]]></content>
+    <tabTrigger>vpmin_u8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

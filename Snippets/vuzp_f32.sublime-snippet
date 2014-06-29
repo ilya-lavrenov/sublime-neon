@@ -1,0 +1,6 @@
+<snippet>
+    <description>De-Interleave elements</description>
+    <content><![CDATA[vuzp_f32(${1:float32x2_t a}, ${2:float32x2_t b})]]></content>
+    <tabTrigger>vuzp_f32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

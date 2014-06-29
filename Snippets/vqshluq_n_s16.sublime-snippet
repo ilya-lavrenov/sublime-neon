@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector signed-unsigned saturating shift left by constant</description>
+    <content><![CDATA[vqshluq_n_s16(${1:int16x8_t a}, ${2:__constrange(0,15) int b})]]></content>
+    <tabTrigger>vqshluq_n_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

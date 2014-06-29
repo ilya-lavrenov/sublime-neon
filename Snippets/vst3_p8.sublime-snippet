@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store N-element structure to memory</description>
+    <content><![CDATA[vst3_p8(${1:__transfersize(24) poly8_t * ptr}, ${2:poly8x8x3_t val})]]></content>
+    <tabTrigger>vst3_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

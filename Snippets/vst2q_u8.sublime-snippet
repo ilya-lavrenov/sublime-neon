@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store N-element structure to memory</description>
+    <content><![CDATA[vst2q_u8(${1:__transfersize(32) uint8_t * ptr}, ${2:uint8x16x2_t val})]]></content>
+    <tabTrigger>vst2q_u8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

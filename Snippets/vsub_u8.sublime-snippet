@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector subtract</description>
+    <content><![CDATA[vsub_u8(${1:uint8x8_t a}, ${2:uint8x8_t b})]]></content>
+    <tabTrigger>vsub_u8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

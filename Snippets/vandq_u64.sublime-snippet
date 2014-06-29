@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise and</description>
+    <content><![CDATA[vandq_u64(${1:uint64x2_t a}, ${2:uint64x2_t b})]]></content>
+    <tabTrigger>vandq_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

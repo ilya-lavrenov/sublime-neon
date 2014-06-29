@@ -1,0 +1,6 @@
+<snippet>
+    <description>Bitwise not</description>
+    <content><![CDATA[vmvnq_u16(${1:uint16x8_t a})]]></content>
+    <tabTrigger>vmvnq_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

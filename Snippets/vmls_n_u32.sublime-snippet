@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector multiply subtract with scalar</description>
+    <content><![CDATA[vmls_n_u32(${1:uint32x2_t a}, ${2:uint32x2_t b}, ${3:uint32_t c})]]></content>
+    <tabTrigger>vmls_n_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

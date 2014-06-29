@@ -1,0 +1,6 @@
+<snippet>
+    <description>Interleave elements</description>
+    <content><![CDATA[vzip_p16(${1:poly16x4_t a}, ${2:poly16x4_t b})]]></content>
+    <tabTrigger>vzip_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

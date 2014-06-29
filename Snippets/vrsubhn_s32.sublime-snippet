@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector rounding subtract high half</description>
+    <content><![CDATA[vrsubhn_s32(${1:int32x4_t a}, ${2:int32x4_t b})]]></content>
+    <tabTrigger>vrsubhn_s32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

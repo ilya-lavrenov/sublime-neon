@@ -1,0 +1,6 @@
+<snippet>
+    <description>vmax{q}_type. Vr[i] := (Va[i] = Vb[i]) ? Va[i] : Vb[i]</description>
+    <content><![CDATA[vmax_s8(${1:int8x8_t a}, ${2:int8x8_t b})]]></content>
+    <tabTrigger>vmax_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

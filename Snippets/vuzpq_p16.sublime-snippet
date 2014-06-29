@@ -1,0 +1,6 @@
+<snippet>
+    <description>De-Interleave elements</description>
+    <content><![CDATA[vuzpq_p16(${1:poly16x8_t a}, ${2:poly16x8_t b})]]></content>
+    <tabTrigger>vuzpq_p16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

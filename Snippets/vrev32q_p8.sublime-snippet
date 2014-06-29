@@ -1,0 +1,6 @@
+<snippet>
+    <description>Reverse vector elements (swap endianness)</description>
+    <content><![CDATA[vrev32q_p8(${1:poly8x16_t vec})]]></content>
+    <tabTrigger>vrev32q_p8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

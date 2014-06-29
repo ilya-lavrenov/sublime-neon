@@ -1,0 +1,6 @@
+<snippet>
+    <description>Load all lanes of vector to the same literal value</description>
+    <content><![CDATA[vdupq_n_u32(${1:uint32_t value})]]></content>
+    <tabTrigger>vdupq_n_u32</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

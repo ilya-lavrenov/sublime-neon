@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector compare greater-than</description>
+    <content><![CDATA[vcgt_u16(${1:uint16x4_t a}, ${2:uint16x4_t b})]]></content>
+    <tabTrigger>vcgt_u16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

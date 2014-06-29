@@ -1,0 +1,6 @@
+<snippet>
+    <description>Negate: vneg{q}_type. Vd[i] = - Va[i]</description>
+    <content><![CDATA[vnegq_s16(${1:int16x8_t a})]]></content>
+    <tabTrigger>vnegq_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

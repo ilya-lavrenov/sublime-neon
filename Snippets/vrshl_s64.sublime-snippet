@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector rounding shift left: (negative values shift right)</description>
+    <content><![CDATA[vrshl_s64(${1:int64x1_t a}, ${2:int64x1_t b})]]></content>
+    <tabTrigger>vrshl_s64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

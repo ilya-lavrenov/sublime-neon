@@ -1,0 +1,6 @@
+<snippet>
+    <description>vpmax - takes maximum of adjacent pairs</description>
+    <content><![CDATA[vpmax_s8(${1:int8x8_t a}, ${2:int8x8_t b})]]></content>
+    <tabTrigger>vpmax_s8</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

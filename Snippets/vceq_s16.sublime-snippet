@@ -1,0 +1,6 @@
+<snippet>
+    <description>Vector rounding subtract high half</description>
+    <content><![CDATA[vceq_s16(${1:int16x4_t a}, ${2:int16x4_t b})]]></content>
+    <tabTrigger>vceq_s16</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <description>Store N-element structure to memory</description>
+    <content><![CDATA[vst4_u64(${1:__transfersize(4) uint64_t * ptr}, ${2:uint64x1x4_t val})]]></content>
+    <tabTrigger>vst4_u64</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
